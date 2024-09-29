@@ -6,8 +6,8 @@
         Faculdades Metropolitanas Unidas
             Ciências da Computação
 
-Participantes:
+                Participantes:
 
-GUILHERME CABRAL SOUSA | 
-JOÃO VITOR DE SOUSA MIRANDA | 
-JOSÉ AUGUSTO
+        GUILHERME CABRAL SOUSA | 
+        JOÃO VITOR DE SOUSA MIRANDA | 
+        JOSÉ AUGUSTO
